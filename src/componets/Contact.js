@@ -8,7 +8,7 @@ const Contact = () => {
       <Container className="content">
         <h2>Get in Touch</h2>
         <p>
-          If you want to send us a press release or tell us about a new story:
+          If you want to send us a press release or tell us about a new story!!!
         </p>
         <div className="glowing-form">
           <Form action="/action_page.php">
